@@ -1,6 +1,6 @@
 # ISO 27001 Annex A.7 Physical Controls Audit – Mr Fix Phone Repair
 
-_Author: Your Name_  
+_Author: Rustam Gadirov  
 _Role: Aspiring GRC / ISO 27001 Analyst_
 
 
