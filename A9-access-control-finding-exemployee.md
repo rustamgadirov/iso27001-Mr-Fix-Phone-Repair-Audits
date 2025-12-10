@@ -1,7 +1,7 @@
 ## Finding Title: Ex-Employee Retains System Access  
 ### ISO 27001 Control: A.9 – User Access Management
 
-**Issue:**  
+**Issue:**   
 A former employee still has an active user account on office software after leaving the company. This allows potential unauthorized access to customer data and internal systems.
 
 **Evidence:**  
