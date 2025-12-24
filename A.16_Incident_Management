@@ -1,0 +1,16 @@
+# Finding Title: Customer Device Damage Not Documented as a Security Incident
+
+## ISO 27001 Control
+A.16 – Information Security Incident Management
+
+### Issue
+A customer device was damaged during a battery replacement procedure due to improper handling by a newly hired employee. The incident was not formally reported or documented in accordance with incident management requirements.
+
+### Evidence
+During management review, the employee confirmed that the customer’s device motherboard was damaged during repair. No incident report, incident log entry, or documented investigation was available for review.
+
+### Impact
+Failure to document and manage incidents increases the risk of repeated errors, data loss, customer disputes, and service disruption. This lack of formal incident handling does not comply with ISO 27001 A.16 requirements and limits the organization’s ability to identify root causes and implement corrective actions.
+
+### Recommendation
+Establish and enforce a formal incident management process requiring all security and operational incidents to be reported, documented, investigated, and resolved. Maintain an incident log and provide employee training on incident identification and reporting procedures.
